@@ -19,7 +19,7 @@ This is a simple web-based calculator application built using HTML, CSS, and Jav
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/calculator.git
+    git clone https://github.com/devAdityaPandey/Numbers--Calculator.git
     ```
 2. Navigate to the project directory:
     ```bash
